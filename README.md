@@ -1,5 +1,7 @@
 # Adaptive Layout Engine for Multi-Surface Ads
 
+**Live demo:** https://adaptive-layout-engine-three.vercel.app
+
 A constraint-based layout engine that takes one ad specification and one surface
 profile and resolves a valid, non-overlapping arrangement — re-composing content
 rather than scaling one fixed layout.
